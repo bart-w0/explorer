@@ -7,3 +7,4 @@ tmp
 .idea
 app/.divshot-cache/
 app/divshot.json
+.project
